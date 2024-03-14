@@ -1,0 +1,21 @@
+# 大模型介绍
+
+这个仓库包含了一个基于InternLM底座开发的大模型，专注于智能公告的理解。我们的模型能够对测试集合中的公司公告进行理解，达到了80%的准确率。
+
+## 特性
+
+- **高准确率**：对于公司公告的理解能力达到了80%的准确率。
+- **基于InternLM**：利用了InternLM大模型的底座，继承了其强大的语言理解能力。
+- **智能理解**：专门针对公司公告的内容进行智能理解和分析。
+
+## 安装
+
+请按照以下步骤安装和运行模型：
+
+```bash
+# 克隆仓库
+git clone https://github.com/your-username/your-repo-name.git
+# 进入仓库
+cd your-repo-name
+# 安装依赖（如果有）
+pip install -r requirements.txt
